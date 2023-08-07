@@ -1,7 +1,16 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
-<!--
-**grxiong/grxiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--自我介绍-->
+<h2><img src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm grxiong ! <img src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
+
+<!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=20&width=600&lines=System.out.print(%22Hello%2C%20World%22)&center=true&size=27" alt="Typing SVG" />
+    <!--敲电脑图片-->
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+  </div>
+
+<!--**grxiong/grxiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
