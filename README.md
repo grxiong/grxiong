@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 
 <!--自我介绍-->
-<h2><img src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm grxiong ! <img src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
+<h2><img src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm grxiong ! <img src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
 
 <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
