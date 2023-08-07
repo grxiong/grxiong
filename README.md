@@ -17,6 +17,9 @@
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
 
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
